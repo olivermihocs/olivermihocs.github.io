@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggers.svgz);
+    background: url(triggers.png);
     opacity: 0;
 }
 
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(face.svgz);
+    background: url(face.png);
 }
 
 .ds4 .button.pressed {
